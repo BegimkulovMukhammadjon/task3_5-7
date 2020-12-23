@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608724475 source:c:\users\hp\desktop\activation\codeblocks.cbp\prepareforexam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
